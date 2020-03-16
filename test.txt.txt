@@ -3,4 +3,6 @@
 마스터에서 처리 한 내용 - master
 파트너가 처리한 내용 - partner
 
-issue1 브랜치 테스트
+issue2 테스트
+
+master 브런치 실행
